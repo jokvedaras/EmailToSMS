@@ -1,0 +1,1 @@
+To use the program you need to make a res/ folder at the classpath and have an XML file with properties to be used to send the email and emailAddresses.txt with all the emailaddress or phone number you want to send a message to. When that file is read, it ignores any line with a #
