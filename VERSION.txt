@@ -1,0 +1,1 @@
+Version 0.1:  initial release. Can send email to list of users by reading emailAddress.txt. Reads settings from properties.xml in res/ folder. You also need emailAddress is res folder
